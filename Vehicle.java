@@ -4,7 +4,7 @@ public abstract class Vehicle {
     protected Driver driver;
 
     public Vehicle(String brand, int year) {
-        this.brand = brand;
+        this.brand = brand;     
         this.year = year;
     }
 
